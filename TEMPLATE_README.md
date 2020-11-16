@@ -1,6 +1,6 @@
-# Title
+# Microsoft Movie Studio Recommendations
 
-**Authors**: Student1, Student2
+**Author**: Cindy
 
 ## Overview
 
@@ -16,6 +16,9 @@ Questions to consider:
 * How did you pick the data analysis question(s) that you did?
 * Why are these questions important from a business perspective?
 ***
+
+Microsoft is entering the movie business with no previous experience. I am 
+
 
 ## Data
 
