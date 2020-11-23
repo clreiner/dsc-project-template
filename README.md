@@ -7,6 +7,7 @@
 ## Overview
 
 This project analyzes the inital steps needed to get the software company, Microsoft, started in the movie industry. Movie data from The Movie Database (TMDB) shows that movies with budgets of \\$37 million and less are more likely to have a high return on investment (ROI), than high movies with higher budgets. Of movies with budgets of \\$37 million and less, Documentaries are the most likely to have a high ROI. There are 9 directors in Internet Movie Database (IMDB) who have had at least 2 popular documentaries in the last ten years; Alex Gibney, Sam Dunn, Scot McFadyen, Fisher Stevens, Adam Curtis, Peter Mortimer, Joshua Oppenheimer, Josh Lowell, and Boris Malagurski. This initial analysis of movie data will give Microsoft direction in deciding the budget, genre and director for their first movie.
+
 <img alt="picture of man with video camera" src="images/camera.png" width="150"/>
 
 ## Business Problem
@@ -48,7 +49,7 @@ Documentaries, Horror, Music and History movies are most likely to yeild a high 
 
 Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./Movie_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact me at cindylund@gmail.com
 
 ## Repository Structure
 
@@ -59,6 +60,6 @@ Describe the structure of your repository and its contents, for example:
 ├── movie_analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 ├── Movie_Presentation.pdf              <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
- -- scratch_notebooks                   <- Jupyter notebooks used for initial analysis
+├── images                              <- Both sourced externally and generated from code
+└── scratch_notebooks                   <- Jupyter notebooks used for initial analysis
 ```
