@@ -29,7 +29,7 @@ This project uses descriptive analysis to find out what types of movies are most
 
 High ROI movies tend to have lower budgets than low ROI movies. The middle quartile range is \\$8-37 million.
 
-<img alt="Budget vs ROI" src="images/udgetvROItype.png" width="300"/>
+<img alt="Budget vs ROI" src="./images/udgetvROItype.png" width="300"/>
 
 Documentaries, Horror, Music and History movies are most likely to yeild a high ROI.
 ![graph2](./images/highROIgenres.png)
