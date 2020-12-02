@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project analyzes the inital steps needed to get the software company, Microsoft, started in the movie industry. Movie data from The Movie Database (TMDB) shows that movies with budgets of \\$37 million and less are more likely to have a high return on investment (ROI), than high movies with higher budgets. Of movies with budgets of \\$37 million and less, Documentaries are the most likely to have a high ROI. There are 9 directors in Internet Movie Database (IMDB) who have had at least 2 popular documentaries in the last ten years; Alex Gibney, Sam Dunn, Scot McFadyen, Fisher Stevens, Adam Curtis, Peter Mortimer, Joshua Oppenheimer, Josh Lowell, and Boris Malagurski. This initial analysis of movie data will give Microsoft direction in deciding the budget, genre and director for their first movie.
+This project analyzes the inital steps needed to get the software company, Microsoft, started in the movie industry. Movie data from The Movie Database (TMDB) shows that movies with budgets of \$37 million and less are more likely to have a high return on investment (ROI), than high movies with higher budgets. Of movies with budgets of \$37 million and less, Documentaries are the most likely to have a high ROI. There are 9 directors in Internet Movie Database (IMDB) who have had at least 2 popular documentaries in the last ten years; Alex Gibney, Sam Dunn, Scot McFadyen, Fisher Stevens, Adam Curtis, Peter Mortimer, Joshua Oppenheimer, Josh Lowell, and Boris Malagurski. This initial analysis of movie data will give Microsoft direction in deciding the budget, genre and director for their first movie.
 
 <img alt="picture of man with video camera" src="images/camera.png" width="300"/>
 
@@ -27,7 +27,7 @@ This project uses descriptive analysis to find out what types of movies are most
 
 ## Results
 
-High ROI movies tend to have lower budgets than low ROI movies. The middle quartile range is \\$8-37 million.
+High ROI movies tend to have lower budgets than low ROI movies. The middle quartile range is \$8-37 million.
 
 <img alt="Budget vs ROI" src="./images/budgetvROItype.png" width="350"/>
 
@@ -37,7 +37,7 @@ Documentaries, Horror, Music and History movies are most likely to yeild a high 
 ## Conclusions
 
 **This analysis leads to three recommendations for Microsoft's first movie:**
-* Aim for a budget in the range of \\$8-37 million. This range has the greatest change to have a large ROI.
+* Aim for a budget in the range of \$8-37 million. This range has the greatest change to have a large ROI.
 * Create a documentary. Documentaries are the mostly likely movie genre to have a large ROI and fit well with Microsoft's image. They can leverage relationships with the Bill & Melinda Gates Foundation or Paul Allen's Experience Music Project to find fascinating stories to tell.
 * I identified 8 possible directors who have created popular documentaries in the last 10 years. This would be a great place to explore relationships.
 
